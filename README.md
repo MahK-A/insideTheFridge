@@ -1,2 +1,0 @@
-# insideTheFridge
-Created with CodeSandbox
